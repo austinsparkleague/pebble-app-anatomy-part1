@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "scottybrackett@gmail.com",
+    "longName": "the basics - anatomy of an app part.1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "the basics - anatomy of an app part.1",
+    "uuid": "4fdaaf38-3ce2-420f-ade2-db7b4e755d44",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
